@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/promptcraft-challenge-app/static/css/main.cb695780.css",
-    "main.js": "/promptcraft-challenge-app/static/js/main.55e3f77a.js",
+    "main.css": "/promptcraft-challenge-app/static/css/main.341a4c4a.css",
+    "main.js": "/promptcraft-challenge-app/static/js/main.b13f2988.js",
     "static/js/453.a393f5e8.chunk.js": "/promptcraft-challenge-app/static/js/453.a393f5e8.chunk.js",
     "index.html": "/promptcraft-challenge-app/index.html",
-    "main.cb695780.css.map": "/promptcraft-challenge-app/static/css/main.cb695780.css.map",
-    "main.55e3f77a.js.map": "/promptcraft-challenge-app/static/js/main.55e3f77a.js.map",
+    "main.341a4c4a.css.map": "/promptcraft-challenge-app/static/css/main.341a4c4a.css.map",
+    "main.b13f2988.js.map": "/promptcraft-challenge-app/static/js/main.b13f2988.js.map",
     "453.a393f5e8.chunk.js.map": "/promptcraft-challenge-app/static/js/453.a393f5e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb695780.css",
-    "static/js/main.55e3f77a.js"
+    "static/css/main.341a4c4a.css",
+    "static/js/main.b13f2988.js"
   ]
 }
