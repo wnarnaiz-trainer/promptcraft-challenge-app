@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/promptcraft-challenge-app/static/css/main.341a4c4a.css",
-    "main.js": "/promptcraft-challenge-app/static/js/main.c52ccbf4.js",
+    "main.js": "/promptcraft-challenge-app/static/js/main.57361f7c.js",
     "static/js/453.a393f5e8.chunk.js": "/promptcraft-challenge-app/static/js/453.a393f5e8.chunk.js",
     "index.html": "/promptcraft-challenge-app/index.html",
     "main.341a4c4a.css.map": "/promptcraft-challenge-app/static/css/main.341a4c4a.css.map",
-    "main.c52ccbf4.js.map": "/promptcraft-challenge-app/static/js/main.c52ccbf4.js.map",
+    "main.57361f7c.js.map": "/promptcraft-challenge-app/static/js/main.57361f7c.js.map",
     "453.a393f5e8.chunk.js.map": "/promptcraft-challenge-app/static/js/453.a393f5e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.341a4c4a.css",
-    "static/js/main.c52ccbf4.js"
+    "static/js/main.57361f7c.js"
   ]
 }
